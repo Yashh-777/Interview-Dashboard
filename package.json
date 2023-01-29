@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.2.0",
+    "firebase": "^9.14.0",
+    "qs": "^6.11.0",
+    "react-bootstrap-sweetalert": "^5.2.0"
+  },
+  "name": "interview-dashboard",
+  "version": "1.0.0",
+  "description": "Gmail API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "yash",
+  "license": "ISC"
+}
