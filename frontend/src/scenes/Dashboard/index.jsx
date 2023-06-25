@@ -23,18 +23,6 @@ const Dashboard = (props) => {
   //   .then((data) => setMails(data));
   // }
 
-  // const fetchData = () => {
-  //   async function abc(){
-  //   return await fetch("https://gmail.googleapis.com/gmail/v1/users/me/messages")
-  //   .then((response) => response.json())
-  //   .then((data) => setMails(data));    
-  //   }
-  // }
-  // useEffect(() => {
-  //   fetchData();
-  // },[]);
-
-
   // let temp = fetchData();
   // console.log(temp);
   // console.log(mails);
