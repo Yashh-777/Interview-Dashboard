@@ -3,11 +3,10 @@ var qs = require("qs");
 
 class GmailAPI {
   accessToken = "";
-
   constructor() {
     this.accessToken = this.getAcceToken();
   }
-
+  
   getAcceToken = async () => {
     var data = qs.stringify({ 
       client_id:
