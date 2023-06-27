@@ -18,7 +18,6 @@ import 'react-toastify/dist/ReactToastify.css';
 import styled from "styled-components";
 // Import toastify css file
 import 'react-toastify/dist/ReactToastify.css';
- 
 
 
 const Form = () => {
