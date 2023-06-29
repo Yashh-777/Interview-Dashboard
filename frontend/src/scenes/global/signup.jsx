@@ -11,7 +11,7 @@ import styled from "styled-components";
 
 const SignUp = () => {
   const isNonMobile = useMediaQuery("(min-width:600px)");
-
+  
   const handleFormSubmit = (values) => {
     console.log(values);
   };
