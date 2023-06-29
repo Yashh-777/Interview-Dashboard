@@ -8,4 +8,5 @@ const mongoose = require('mongoose');
         address1:String,
         address2:String
       }); 
+
 module.exports=mongoose.model("users",userSchema);
